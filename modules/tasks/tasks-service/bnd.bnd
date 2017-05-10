@@ -1,0 +1,8 @@
+Bundle-Name: tasks-service
+Bundle-SymbolicName: tasks.service
+Bundle-Version: 1.0.0
+Liferay-Require-SchemaVersion: 1.0.0
+Liferay-Service: true
+Export-Package: \
+	com.liferay.tasks.social,\
+	com.liferay.tasks.service.permission
