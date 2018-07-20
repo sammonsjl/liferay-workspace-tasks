@@ -35,6 +35,7 @@ import com.liferay.portal.kernel.portlet.bridges.mvc.MVCPortlet;
 			"com.liferay.portlet.header-portlet-javascript=/tasks/js/main.js",
 			"com.liferay.portlet.display-category=category.collaboration",
 			"com.liferay.portlet.instanceable=false",
+			"com.liferay.portlet.single-page-application=false",
 			"javax.portlet.security-role-ref=power-user,user",
 			"javax.portlet.init-param.template-path=/",
 			"javax.portlet.init-param.view-template=/tasks/view.jsp",
